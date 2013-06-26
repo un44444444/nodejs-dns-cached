@@ -1,2 +1,2 @@
-nodejs-dns-cached
+nodejs-dns-cached - a DNS Server with cache
 =================
